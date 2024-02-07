@@ -20,7 +20,7 @@ const projectDetail = [{
 },
 {
   title: 'Intrusion Detection System',
-  exprience: ['Jupyter','2023'],
+  exprience: ['Jupyter', '2023'],
   desription: 'Used Machine Learning Algorithms to find whether a Network is good or bad.',
   popDescription: 'The Intrusion Detection System (IDS) project is a powerful tool designed to enhance cybersecurity by detecting and classifying network connections as either "good" or "bad" based on machine learning algorithms. Built using Python and leveraging popular ML algorithms like Decision Trees, K-Nearest Neighbors (KNN), and Random Forest, the system provides real-time analysis of network traffic to identify potential threats and anomalies.',
   technologies: ['Jupyter', 'Machine Learning'],
@@ -43,7 +43,7 @@ const projectDetail = [{
   imageMobile: './images/Snapshoot4.png',
   imagePopup: './images/Snap4.png',
   imageMobilePopup: './images/Snapshoot4.png',
-  seeSource:'https://github.com/Kopal05/FR.git'
+  seeSource: 'https://github.com/Kopal05/FR.git'
 },
 ];
 /* End of project detail object */
